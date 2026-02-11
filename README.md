@@ -91,7 +91,7 @@ A network connection of any kind is required, before trying to run Vue please co
   1. Format your USB Drive to Exfat.
 > [!WARNING]
 > This will wipe your drive of all data. Backup any important data.   
-  2. Download the `VueSystemBackup.7z` from Releases.
+  2. Download the `VueSystemBackup.7z` from the original vaf [Releases page.](https://github.com/Vuemony/vue-after-free/releases)
   3. Unpack the contents of the zip onto the USB.
   4. Plug the USB into your console.
   5. If you have a real PSN account on the console go to Settings>Application Saved Data Management>Saved Data in System Storage and backup your savedata to the USB. (Sufficient space required.)
@@ -120,7 +120,7 @@ A network connection of any kind is required, before trying to run Vue please co
 
 
 # Payloads
-Vue After Free comes preloaded with some payloads.
+Vue After Free comes preloaded with some payloads. (more in my build, that are commonly used)
 
 > [!IMPORTANT]
 > The np-fake-signin should not be run on a real psn account.
