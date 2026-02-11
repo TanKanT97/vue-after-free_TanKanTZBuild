@@ -14,7 +14,7 @@
 > **NOT OFFICIAL REPO BY THE VAF TEAM!!!!** DO NOT COMPLAIN ABOUT THIS IN THEIR DISCORD. **OPEN AN ISSUE HERE INSTEAD ON THIS REPOSITORY, I WILL LOOK AT IT!**
 >
 >
-> [Join the VAF discord at:](https://discord.gg/asBgEtjjVt)
+> [Join the VAF Team discord that maintains the original project by clicking here!](https://discord.gg/asBgEtjjVt)
 > **RESPECT ALL STAFF** ON THE VAF DISCORD!!!
 
 # Vue After Free Userland
