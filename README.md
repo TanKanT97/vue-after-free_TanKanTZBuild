@@ -10,7 +10,12 @@
 
 
 > [!NOTE]
-> **Need help or having issues?** [Join the discord](https://discord.gg/asBgEtjjVt)
+>
+> **NOT OFFICIAL REPO BY THE VAF TEAM!!!!** DO NOT COMPLAIN ABOUT THIS IN THEIR DISCORD. **OPEN AN ISSUE HERE INSTEAD ON THIS REPOSITORY, I WILL LOOK AT IT!**
+>
+>
+> [Join the VAF discord at:](https://discord.gg/asBgEtjjVt)
+> **RESPECT ALL STAFF** ON THE VAF DISCORD!!!
 
 # Vue After Free Userland
 CVE-2018-4441 was shortly applied but due to instability and bad success rate it was dropped.    
